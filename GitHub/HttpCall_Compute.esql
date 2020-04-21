@@ -6,7 +6,11 @@ CREATE COMPUTE MODULE HttpCall_Compute
 		DECLARE rc BOOLEAN; 
 		CALL Common_lib.callLog4jInit('F:\IIB_Work\broker.xml') INTO rc;
 		CALL Common_lib.callLog4jLog(MessageFlowLabel, 'FILE', 'INFO','Message from ESQL') INTO rc;
-		SET OutputRoot.JSON.Data.message =  'Hello Vikas here :) How are.......!!' ;
+		SET OutputRoot.JSON.Data.message =  'Hello Vikas here :) .......!!' ;
+		
+		
+		
+		
 		RETURN TRUE;
 	END;
 END MODULE;
