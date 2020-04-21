@@ -1,0 +1,25 @@
+
+
+Importing file: C:\Users\Vikas\Desktop\soap.wsdl
+
+The WSDL import will proceed with bindings CalculatorSoap11Binding, CalculatorSoap12Binding.
+Creating wsdl schema document for file:///C:/Users/Vikas/Desktop/soap.wsdl.
+Parsing wsdl binding {http://c.b.a}CalculatorSoap12Binding.
+Parsing wsdl binding input add.
+Parsing wsdl binding output add.
+Parsing wsdl binding {http://c.b.a}CalculatorSoap11Binding.
+Parsing wsdl binding input add.
+Parsing wsdl binding output add.
+Processing doc style for operation add.
+Populating WSDL schema soap.xsd.
+Creating file soap.xsd in the workspace.
+Creating file soap_InlineSchema1.xsd in the workspace.
+Copying source WSDL soap.wsdl to soap.wsdl.
+
+Elapsed time processing this message definition file: 1.328 seconds
+Number of warnings for this message definition file: 0
+
+
+Number of files processed: 1
+
+
